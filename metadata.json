@@ -1,0 +1,5 @@
+{
+  "name": "SkeuoMusicPlayer-Spotify",
+  "description": "A neomorphic/skeuomorphic music player interface inspired by high-end audio hardware, featuring a rotating volume knob, synchronized lyrics display, and physical-style controls.",
+  "requestFramePermissions": []
+}
